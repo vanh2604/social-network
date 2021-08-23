@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SaehqaqEEsgPnvDNjHopyEOdosOQq1yxt0ssv+l0PCMMqsFu/lmzlRphupWbDm1gKAm8jHS6bTAOyxZjhDkGYg==",
+  "dgSpecHash": "95err6T9PtaWC/8HnhM6x0r/U65YMGkBIt7kO/3e2Wni5QeOP9dOLseakJxjwy5rx7insPJAH6+s7Cn3Tl5dFA==",
   "success": true,
   "projectFilePath": "/Users/admin/reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.data.sqlite.core/5.0.1/microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.entityframeworkcore/5.0.1/microsoft.entityframeworkcore.5.0.1.nupkg.sha512",
@@ -29,7 +34,8 @@
     "/Users/admin/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/admin/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/admin/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "/Users/admin/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/admin/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
